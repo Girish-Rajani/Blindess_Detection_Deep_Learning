@@ -18,5 +18,5 @@ Models:
 3a. VGG16
 3b. ResNet
 3c. ImageNet
-4. ET Classifier (Extra Trees Classifier) from decision trees - Implemented in https://arxiv.org/ftp/arxiv/papers/2006/2006.07475.pdf
+4. ET Classifier (Extra Trees Classifier - Ensemble Learning) from decision trees - Implemented in https://arxiv.org/ftp/arxiv/papers/2006/2006.07475.pdf
 
