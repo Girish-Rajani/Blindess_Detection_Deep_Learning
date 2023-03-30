@@ -12,7 +12,7 @@ To Do:
 
 Models:
 Need an optimizer along with appropriate loss function (Adams optimizer & categorical cross-entropy loss)
-#1. Logistic Regression
+1. Logistic Regression
 2. Custom CNN's 
 3. Transfer Learning:
 3a. VGG16
