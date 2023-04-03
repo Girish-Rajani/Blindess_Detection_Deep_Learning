@@ -1,4 +1,4 @@
-# Blindess_Detection_Deep_Learning
+# Blindness_Detection_Deep_Learning
 
 
 Tasks:
