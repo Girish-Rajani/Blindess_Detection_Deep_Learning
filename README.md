@@ -1,22 +1,6 @@
 # Blindness_Detection_Deep_Learning
 
 
-Tasks:
+The goal of this project is to use algorithms in Machine Learning and Deep Learning, such as Convolutional Neural Networks to extract features from retina images to automate this process. This will be done by performing multi-class image classification using the APTOS 2019 Blindness Detection dataset. Machine learning models allow us to speed up the process of detecting DR early and make this service available to those who may not have access to the infrastructure.
 
-Data Preprocessing:
-1. Split the training folder into sub folders (class 0 - class 4) based on the class labels in train.csv
-2. Split the training data into validation and training set 
-To Do: 
-3. The dimensions of the images range from 474 x 358 pixels to 3388 x 2588 pixels. To make all images equal in size, we resize the images  
-4. Perform data augmentation to get the number of samples in each to be equally distributed (perform 90, 180, and 270 degree rotations on class 1, 3, and 4)
-
-Models:
-Need an optimizer along with appropriate loss function (Adams optimizer & categorical cross-entropy loss)
-1. Logistic Regression
-2. Custom CNN's 
-3. Transfer Learning:
-3a. VGG16
-3b. ResNet
-3c. ImageNet
-4. ET Classifier (Extra Trees Classifier - Ensemble Learning) from decision trees - Implemented in https://arxiv.org/ftp/arxiv/papers/2006/2006.07475.pdf
-
+Various models were made such as a custom CNN model, VGG-16 model, ResNet50 model, and an InceptionV3 model. After training and evaluating all models (with and without data augmentation), the test data was labelled using each model.
