@@ -57,8 +57,8 @@ The custom CNN model performed competitively with Transfer Learning models. Data
 
 ## Team members:
 
-1. Bhavesh Rajesh Talreja
-2. Girish Rajani-Bathija
+1. Girish Rajani-Bathija
+2. Bhavesh Rajesh Talreja
 3. Shriya Prasanna
 
 ## References
