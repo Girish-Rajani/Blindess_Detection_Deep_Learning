@@ -1,4 +1,4 @@
-# Diabetic_Retinopathy_Detection_Using_CNN
+# Diabetic Retinopathy Detection Using CNN
 
 ## Introduction
 
